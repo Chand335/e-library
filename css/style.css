@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather);
+body
+{
+   font-family: "Times New Roman", Times, serif !important;
+   
+}
+.social-ico-bar {
+    overflow: hidden;
+    background: url(../images/social-ico-bar-bg.jpg);
+    margin: 0 0 0px;
+    border-top: 1px solid #434343;
+    border-bottom: 1px solid #434343;
+    padding: 4px 1px 5px;
+}
+.container {
+    margin-right: auto;
+    margin-left: auto;
+}
+article.span6.copy-left {
+    color: rgba(255, 255, 255, 0.48);
+}
+article.span6.copy-left>span {
+    color: #B9CDA8;
+}
